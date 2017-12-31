@@ -1,3 +1,9 @@
 # CSS Study
 
-- [ ] checkBox Test
+## Todo
+-------
+- [ ] Basic Terms
+- [ ] Basic Voca
+- [ ] Attributes
+- [ ] Attributes Selector
+- [ ] Positioning
