@@ -4,6 +4,7 @@
 -------
 - [ ] Basic Terms
 - [ ] Basic Voca
-- [ ] Attributes
+- [x] Attributes
 - [ ] Attributes Selector
 - [ ] Positioning
+- [ ] Transform
